@@ -7,12 +7,7 @@ function MerryChristmas() {
       <h1 className="christmas-heading">
         Merry Christmas, Chuck and Ronda! 🎄
       </h1>
-      <a
-        href="/vitos-gift-card.pdf"
-        target="_blank"
-        type="application/pdf"
-        className="button"
-      >
+      <a href="/vitos-gift-card.png" target="_blank" className="button">
         Open your Christmas gift 🎁
       </a>
     </div>
